@@ -1,0 +1,62 @@
+版本号：1.5.7
+维护者：Water Ghosts
+更新时间：2025-11-18
+
+词条
+//人名 - 区分大小写，确保专有名词准确翻译
+Lestat de Lioncourt = 莱斯特·德·里昂库尔
+Louis de Pointe du Lac = 路易·德·庞·杜拉克
+Gabrielle de Lioncourt = 加布里埃尔·德·里昂库尔
+Nicolas de Lenfent = 尼古拉斯·德·朗方
+Marius de Romanus = 马瑞斯·德·洛玛努斯
+Daniel Molloy = 丹尼尔·莫洛伊
+Jesse Reeves = 杰西·里夫斯
+Benji Mahmoud = 本吉·迈罕默德
+Lestat：莱斯特
+Louis：路易
+Claudia：克劳迪娅
+Armand：阿尔芒
+Daniel：丹尼尔
+Marius：马瑞斯
+Akasha：阿卡莎
+Enkil：恩基尔
+Gabrielle：加布里埃尔
+Nicolas：尼古拉斯
+Nicki：尼基
+Pandora：潘朵拉
+Khayman：凯曼
+Maharet：马哈雷特
+Mekare：梅卡雷
+Jesse：杰西
+David Talbot：大卫·塔尔博特
+David：大卫
+Memnoch：麦姆诺赫
+Magnus：马格努斯
+Santino：桑蒂诺
+Mael：梅尔
+Arion：阿里昂
+Fareed：法里德
+Sybelle：西贝尔
+Amel：阿梅尔
+
+通用词条
+//特殊名称 - 不区分大小写，匹配所有形式
+"Those Who Must Be Kept"："必须被保存者"
+Talamasca：塔拉马斯卡
+Great Family：伟大家族
+Children of Darkness：黑暗之子
+Theatre des Vampires：吸血鬼剧院
+"The Gift"："天赋"
+"The Blood"："血脉"
+Dark Gift：黑暗赠礼
+"The Great Sleep"："长眠"
+Mind Gift：心灵感应
+Telepathy：心灵感应
+Fire Gift：火之禀赋
+Cloud Gift：云之禀赋
+Spell Gift：心灵禀赋
+Blood Communion：血之共鸣
+"The Divine"："神性"
+"The Spirit"："灵体"
+Interview with the Vampire：《夜访吸血鬼》
+The Vampire Lestat：《吸血鬼莱斯特》
