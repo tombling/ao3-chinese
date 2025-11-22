@@ -1,7 +1,7 @@
 版本号：1.5.7
 维护者：Sunny
 更新时间：2025-11-22
-
+ 
 词条区
 //人名-区分大小写，确保专有名词准确翻译
 Kamado：灶门
@@ -66,10 +66,9 @@ Aoi Kanzaki：神崎葵
 Haganezuka：钢铁塚
 Hotaru：萤
 Goto：后藤
-
+ 
 通用词条区
 //特殊名称-不区分大小写
-Demon：鬼
 Demon Slayer Corps：鬼杀队
 Hashira：柱
 Nichirin Sword：日轮刀
@@ -98,8 +97,6 @@ Tenth Form：十之型
 Eleventh Form：十一之型
 Twelfth Form：十二之型
 Thirteenth Form：十三之型
-
-日之呼吸(Sun Breathing)
 Dance：圆舞朝
 Clear Blue Sky：碧罗天
 Raging Sun：烈日红镜
@@ -112,8 +109,6 @@ Dragon Sun Halo Head Dance：斜阳
 Drilling Slashes,Flame：辉辉恩光
 Fake Rainbow：日晕之龙·头舞
 Flame Dance：炎舞
-
-月之呼吸(Moon Breathing)
 Dark Moon,Evening Palace：宵之宫
 Pearl Flower Moongazing：珠华弄月
 Loathsome Moon,Chains：厌忌月·销蚀
@@ -123,8 +118,6 @@ Mirror of Misfortune,Moonlit：厄镜·月映
 Waning Moonswaths：降月·连面
 Catastrophe,Tenman Crescent Moon：凶变·天满纤月
 Moonbow,Half Moon：月虹·孤留月
-
-水之呼吸(Water Breathing)
 Water Surface Slash：水面斩
 Water Wheel：水车
 Flowing Dance：流流舞动
@@ -136,15 +129,11 @@ Waterfall Basin：洗壶
 Splashing Water Flow：水流飞沫
 Constant Flux：生生流转
 Dead Calm：凪
-
-炎之呼吸(Flame Breathing)
 Unknowing Fire：不知火
 Rising Scorching Sun：炎天升腾
 Blooming Flame Undulation：盛炎之涡卷
 Flame Tiger：炎虎
 Purgatory：炼狱
-
-兽之呼吸(Beast Breathing)
 Pierce：穿透刺射
 Slice：利刃对劈
 Devour：獠牙撕扯
@@ -156,32 +145,22 @@ Explosive Rush：爆裂猛进
 Extending Bendy Slashes：伸·蜿蜒绽裂
 Whirling Fangs：圆转旋牙
 Sudden Throwing Strike：临时之牙·飞掷噬咬
-
-虫之呼吸(Insect Breathing)
 Butterfly Dance:Caprice：蝶之舞戏弄
 Dance of the Bee Sting:True Flutter：蜂牙之舞真曳
 Dance of the Dragonfly:Compound Eye Hexagon：蜻蛉之舞复眼六角
 Dance of the Centipede:Hundred-Legged Zigzag：蜈蚣之舞百足蛇腹
-
-蛇之呼吸(Serpent Breathing)
 Winding Serpent Slash：委蛇曲折
 Venom Fangs of the Narrow Head：狭头之毒牙
 Coil Choke：巢绞
 Twin-Headed Reptile：婉婉长蛇
-
-恋之呼吸(Love Breathing)
 Shivers of First Love：初恋的战栗
 Love Pangs：懊恼逡巡之恋
 Catlove Shower：恋猫时雨
 Swaying Love,Wildclaw：摇摆不定的恋情·乱爪
 Cat-Legged Winds of Love：猫足恋风
-
-音之呼吸(Sound Breathing)
 Roar：轰
 Constant Resounding Slashes：响斩无间
 String Performance：鸣弦叠奏
-
-霞之呼吸(Mist Breathing)
 Low Clouds, Distant Haze：垂天远霞
 Eight-Layered Mist：八重霞
 Scattering Mist Splash：霞散的飞沫
@@ -189,8 +168,6 @@ Shifting Flow Slash：平流斩
 Sea of Clouds and Haze：霞云之海
 Lunar Dispersing Mist：月之霞
 Obscuring Clouds：胧
-
-雷之呼吸(Thunder Breathing)
 Thunderclap and Flash：霹雳一闪
 Rice Spirit：稻魂
 Thunder Swarm：聚蚊成雷
@@ -198,8 +175,6 @@ Distant Thunder：远雷
 Heat Lightning：热界雷
 Rumble and Flash：电轰雷轰
 Flaming Thunder God：火雷神
-🌪
-风之呼吸(Wind Breathing)
 Dust Whirlwind Cutter：尘旋风·削斩
 Claws-Purifying Wind：爪爪·科户风
 Clear Storm Wind Tree：晴岚风树
@@ -209,15 +184,11 @@ Black Wind Mountain Mist：黑风烟岚
 Gale, Sudden Gusts：劲风·天狗风
 Primary Gale Slash：初烈风斩
 Idaten Typhoon：韦驮天台风
-
-岩之呼吸(Stone Breathing)
 Serpentinite Bipolar：蛇纹岩·双极
 Upper Smash：天面碎
 Stone Skin：岩躯之肤
 Volcanic Rock,Rapid Conquest：流纹岩·速征
 Arcs of Justice：瓦轮刑部
-
-花之呼吸(Flower Breathing)
 Flower Shadow：御影梅
 Crimson Hanagoromo：红花衣
 Peonies of Futility：无果芍药
