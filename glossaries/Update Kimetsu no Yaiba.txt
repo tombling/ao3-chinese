@@ -1,0 +1,211 @@
+版本号：1.5.7
+维护者：Sunny
+更新时间：2025-11-22
+
+词条
+// 主要角色人名 - 区分大小写
+Kamado Tanjiro = 灶门 炭治郎
+Kamado Nezuko = 灶门 祢豆子
+Agatsuma Zenitsu = 我妻 善逸
+Hashibira Inosuke = 嘴平 伊之助
+Tsuyuri Kanao = 栗花落 香奈乎
+Shinazugawa Genya = 不死川 玄弥
+Shinazugawa Sanemi = 不死川 实弥
+Tomioka Giyu = 富冈 义勇
+Rengoku Kyojuro = 炼狱 杏寿郎
+Uzui Tengen = 宇髄 天元
+Kanroji Mitsuri = 甘露寺 蜜璃
+Iguro Obanai = 伊黑 小芭内
+Tokito Muichiro = 时透 无一郎
+Himejima Gyomei = 悲鸣屿 行冥
+Kocho Shinobu = 蝴蝶 忍
+Kocho Kanae = 蝴蝶 香奈惠
+Ubuyashiki Kagaya = 产屋敷 耀哉
+Ubuyashiki Amane = 产屋敷 天音
+Kibutsuji Muzan = 鬼舞辻 无惨
+
+// 其他重要角色及上弦之鬼
+Urokodaki Sakonji = 鳞泷 左近次
+Sabito：锖兔
+Makomo：真菰
+Jigoro Kuwajima：桑岛慈悟郎
+Kokushibo：黑死牟
+Doma：童磨
+Akaza：猗窝座
+Hantengu：半天狗
+Gyokko：玉壶
+Kaigaku：獪岳
+Enmu：魇梦
+Rui：累
+Tanjuro：炭十郎
+Kie：葵枝
+Senjuro：千寿郎
+Shinjuro：槙寿郎
+Yushiro：愈史郎
+Tamayo：珠世
+Aoi Kanzaki：神崎 葵
+Haganezuka Hotaru：钢铁冢 萤
+
+通用词条
+// 组织、地点与核心概念
+Demon Slayer Corps：鬼杀队
+Hashira：柱
+Nichirin Sword：日轮刀
+Infinity Castle：无限城
+Blood Demon Art：血鬼术
+Flesh Manipulation：肉体操控
+Equinoctial Vermilion Eye：彼岸朱眼
+
+// 呼吸法流派
+Breathing：呼吸
+Water Breathing：水之呼吸
+Flame Breathing：炎之呼吸
+Thunder Breathing：雷之呼吸
+Beast Breathing：兽之呼吸
+Love Breathing：恋之呼吸
+Serpent Breathing：蛇之呼吸
+Mist Breathing：霞之呼吸
+Stone Breathing：岩之呼吸
+Sun Breathing：日之呼吸
+Wind Breathing：风之呼吸
+Moon Breathing：月之呼吸
+
+// 型编号 (First Form 到 Thirteenth Form)
+First Form：壹之型
+Second Form：贰之型
+Third Form：叁之型
+Fourth Form：肆之型
+Fifth Form：伍之型
+Sixth Form：陆之型
+Seventh Form：柒之型
+Eighth Form：捌之型
+Ninth Form：玖之型
+Tenth Form：拾之型
+Eleventh Form：拾壹之型
+Twelfth Form：拾贰之型
+Thirteenth Form：拾叁之型
+
+// 水之呼吸 型
+Water Surface Slash：水面斩击
+Water Wheel：水车
+Flowing Dance：流流舞
+Striking Tide：击打潮
+Blessed Rain After the Drought：乾天之慈雨
+Whirlpool：涡流
+Drop Ripple Thrust：雫波纹击刺
+Waterfall Basin：泷壶
+Splashing Water Flow：飞沫游
+Constant Flux：生生流转
+Dead Calm：凪
+
+// 炎之呼吸 型
+Unknowing Fire：不知火
+Rising Scorching Sun：炎天升
+Blooming Flame Undulation：盛炎之涡卷
+Flame Tiger：炎虎
+Purgatory：炼狱
+
+// 兽之呼吸 型
+Pierce：穿刺
+Slice：劈斩
+Devour：啃噬
+Slice'n'Dice：碎裂
+Crazy Cutting：乱切
+Palisade Bite：桩刺咬
+Spatial Awareness：空间识觉
+Explosive Rush：爆裂突进
+Extending Bendy Slashes：延伸·蜿蜒斩
+Whirling Fangs：圆转旋牙
+Sudden Throwing Strike：投掷斩
+
+// 虫之呼吸 型
+Butterfly Dance:Caprice：蝶之舞·戏弄
+Dance of the Bee Sting:True Flutter：蜂牙之舞·真曳
+Dance of the Dragonfly:Compound Eye Hexagon：蜻蛉之舞·复眼六角
+Dance of the Centipede:Hundred-Legged Zigzag：蜈蚣之舞·百足蛇腹
+
+// 蛇之呼吸 型
+Winding Serpent Slash：蜿蜿长蛇
+Venom Fangs of the Narrow Head：狭头之毒牙
+Coil Choke：巢绞
+Twin-Headed Reptile：双头斩
+
+// 恋之呼吸 型
+Shivers of First Love：初恋的战栗
+Love Pangs：懊恼逡巡之恋
+Catlove Shower：猫恋时雨
+Swaying Love,Wildclaw：摇摆不定的恋情·乱爪
+Cat-Legged Winds of Love：猫足恋风
+
+// 音之呼吸 型
+Roar：轰
+Constant Resounding Slashes：间响斩
+String Performance：鸣弦叠奏
+
+// 霞之呼吸 型
+Low Clouds, Distant Haze：垂天远霞
+Eight-Layered Mist：八重霞
+Scattering Mist Splash：霞散之飞沫
+Shifting Flow Slash：平流斩
+Sea of Clouds and Haze：云海之霞
+Lunar Dispersing Mist：月之霞消
+Obscuring Clouds：胧
+
+// 雷之呼吸 型
+Thunderclap and Flash：霹雳一闪
+Rice Spirit：稻魂
+Thunder Swarm：聚蚊成雷
+Distant Thunder：远雷
+Heat Lightning：热界雷
+Rumble and Flash：轰雷
+Flaming Thunder God：火雷神
+
+// 风之呼吸 型
+Dust Whirlwind Cutter：尘旋风·削斩
+Claws-Purifying Wind：爪爪·科户风
+Clear Storm Wind Tree：晴岚风树
+Rising Dust Storm：升上沙尘岚
+Cold Mountain Wind：木枯风
+Black Wind Mountain Mist：黑风烟岚
+Gale, Sudden Gusts：劲风·天狗风
+Primary Gale Slash：初烈风斩
+Idaten Typhoon：韦驮天台风
+
+// 岩之呼吸 型
+Serpentinite Bipolar：蛇纹岩·双极
+Upper Smash：天面碎
+Stone Skin：岩躯之肤
+Volcanic Rock,Rapid Conquest：流纹岩·速征
+Arcs of Justice：瓦轮刑部
+
+// 花之呼吸 型
+Flower Shadow：御影梅
+Crimson Hanagoromo：红花衣
+Peonies of Futility：无果芍药
+Whirling Peach：涡桃
+
+// 月之呼吸 型
+Dark Moon,Evening Palace：暗月·宵宫
+Pearl Flower Moongazing：珠华弄月
+Loathsome Moon,Chains：厌忌月·销蚀
+Moon Spirit Calamitous Body：月魄灾涡
+Perpetual Night,Lonely Moon-Incessant：常夜孤月·无间
+Mirror of Misfortune,Moonlit：厄镜·月映
+Waning Moonswaths：降月·连面
+Catastrophe,Tenman Crescent Moon：凶变·天满月
+Moonbow,Half Moon：月虹·孤留月
+
+// 上弦之鬼的血鬼术等
+Blood Whips：血鞭
+Ice Creation：冰创成
+Crystal Ice Bodhisattva：结晶之御子
+
+禁翻词条
+// 保持原样的专有名词（如游戏名、特定品牌等，此处仅为示例）
+Hinokami
+Kizuki
+Wisteria
+
+正则表达式
+// 可根据需要在此处添加复杂规则，例如匹配不同写法的术语
+// Demon Art: 血鬼术
