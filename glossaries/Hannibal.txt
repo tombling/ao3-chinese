@@ -1,0 +1,192 @@
+版本号：1.5.7
+维护者：Winston
+更新时间：2024-11-07
+
+// ============================================================
+// 核心角色与人物（区分大小写）
+// ============================================================
+
+词条
+Will Graham = 威尔·格雷厄姆
+Hannibal Lecter = 汉尼拔·莱克特
+Jack Crawford = 杰克·克劳福德
+Alana Bloom = 阿拉娜·布鲁姆
+Frederick Chilton = 弗雷德里克·奇尔顿
+Matthew Brown = 马修·布朗
+Komeda = 科梅达
+Beverly Katz = 贝弗莉·卡兹
+Jimmy Price = 吉米·普莱斯
+Brian Zeller = 布莱恩·泽勒
+Mary Louise = 玛丽·路易斯
+Freddie Lounds = 弗雷迪·劳兹
+Franklyn Froideveaux = 弗兰克林·弗罗伊德沃
+Tobias Budge = 托拜厄斯·巴奇
+Abigail Hobbs = 阿比盖尔·霍布斯
+Garret Jacob Hobbs = 盖勒特·雅各布·霍布斯
+Aaron Cavell = 亚伦·卡维尔
+Ava Fairfield = 艾娃·费尔菲尔德
+Luciano = 卢西亚诺
+Hailey Sampter Bennett = 海莉·桑普特·贝内特
+Mischa = 米莎
+Margot Verger = 玛格·维杰
+Mason Verger = 梅森·维杰
+Cordell Doemling = 科德尔·多姆林
+Abel Gideon = 亚伯·吉迪恩
+Bella Crawford = 贝拉·克劳福德
+Rinaldo Pazzi = 里纳尔多·帕齐
+Allegra Pazzi = 阿莱格拉·帕齐
+Bedelia Du Maurier = 贝蒂莉亚·杜·莫里哀
+Antony Dimmond = 安东尼·迪蒙德
+Arnold Lang = 阿诺德·朗
+Beth LeBeau = 贝丝·勒博
+C.J. Lincoln = C·J·林肯
+Carlo Deogracias = 卡洛·德奥格拉西亚斯
+Carson Nahn = 卡森·纳恩
+Cassie Boyle = 卡西·博伊尔
+Christopher O'Halloran = 克里斯托弗·奥哈洛兰
+Christopher Word = 克里斯托弗·沃德
+Clark Ingram = 克拉克·英格拉姆
+Conner Frist = 康纳·弗里斯特
+David R. Illes = 大卫·R·艾尔斯
+Devon Silvestri = 德文·西尔维斯特里
+Donald Sutcliffe = 唐纳德·萨克利夫
+Dorene Ibale = 多琳·伊贝尔
+Eldon Stammets = 埃尔登·斯塔梅茨
+Elise Nichols = 艾丽丝·尼科尔斯
+Elizabeth Shell = 伊丽莎白·谢尔
+Elliot Buddish = 埃利奥特·巴迪什
+Harold Innedeton = 哈罗德·英尼德顿
+James Gray = 詹姆斯·格雷
+Jesse Turner = 杰西·特纳
+Jocelyn Madchen = 乔斯琳·马德琴
+Judge Davies = 戴维斯法官
+Kade Prurnell = 凯德·普鲁内尔
+Katherine Pimms = 凯瑟琳·皮姆斯
+Lawrence Wells = 劳伦斯·韦尔斯
+Lenora = 莱诺拉
+Leonard Brauner = 伦纳德·布劳纳
+Lester Ionnoti = 莱斯特·伊奥诺蒂
+Louise Hobbs = 路易丝·霍布斯
+Lydia Fell = 莉迪亚·费尔
+Marcy O'Halloran = 马西·奥哈洛兰
+Marissa Schurr = 玛丽莎·舒尔
+Matteo Deogracias = 马泰奥·德奥格拉西亚斯
+Michelle Vocalson = 米歇尔·沃卡尔森
+Miriam Lass = 米里亚姆·拉斯
+Molly Graham = 莫莉·格雷厄姆
+Morgan Verger = 摩根·维杰
+Neal Frank = 尼尔·弗兰克
+Nicholas Boyle = 尼古拉斯·博伊尔
+Randall Tier = 兰德尔·蒂尔
+Reba McClane = 里芭·麦克莱恩
+Roman Fell = 罗曼·费尔
+Sheldon Isley = 谢尔登·艾斯利
+Theresa Marlow = 特蕾莎·马洛
+Thomas Marlow = 托马斯·马洛
+Tommaso = 托马索
+Walter = 沃尔特
+
+// ============================================================
+// 昵称与常见简称（区分大小写）
+// ============================================================
+
+词条
+Matt：马特
+Abbie：阿比
+Abel：亚伯
+Matty：马蒂
+
+// ============================================================
+// 动物与宠物（区分大小写）
+// ============================================================
+
+词条
+Winston：温斯顿
+Zoe：佐伊
+Ellie：艾莉
+Buster：巴斯特
+Jack：杰克
+Heidee：海蒂
+Harley：哈莉
+Max：马克斯
+
+// ============================================================
+// 象征、概念与绰号（不区分大小写）
+// ============================================================
+
+通用词条
+The Stag：雄鹿
+The Ravenstag：鸦羽鹿
+Murder Husbands：谋杀夫夫
+The Wendigo：温迪戈
+The Great Red Dragon：伟大的红龙
+Chesapeake Ripper：切萨皮克开膛手
+Copycat：模仿犯
+The Human Totem：人体图腾
+The Muralist：壁画杀手
+The Ripper's Apprentice：开膛手学徒
+Red Dragon：红龙
+
+// ============================================================
+// 机构、物品与作品（不区分大小写）
+// ============================================================
+
+通用词条
+Bureau Of Behavioral Sciences：行为科学部
+The Memory Palace：记忆宫殿
+Hannibal's Recipes：汉尼拔的食谱
+
+// ============================================================
+// 地名与地点（不区分大小写）
+// ============================================================
+
+通用词条
+Baltimore：巴尔的摩
+Baltimore State Hospital For The Criminally Insane：巴尔的摩州立精神病院
+FBI Academy：联邦调查局学院
+Quantico：匡提科
+Virginia：弗吉尼亚州
+Wolf Trap：狼陷
+Minnesota：明尼苏达
+Wisconsin：威斯康星
+Florence：佛罗伦萨
+Italy：意大利
+Paris：巴黎
+Shepherd Pratt：坎特伯雷诊所
+Biblioteca Capponi：卡波尼图书馆
+Palazzo：帕拉佐宅邸
+Uffizi Gallery：乌菲兹美术馆
+New York：纽约
+Baltimore Harbor：巴尔的摩港
+Chesapeake Bay：切萨皮克湾
+
+// ============================================================
+// 禁翻词条（保持原文）
+// ============================================================
+
+禁翻词条
+BSHCI
+FBI
+BAU
+
+// ============================================================
+// 正则表达式区
+// ============================================================
+
+正则表达式
+// 匹配经典台词的不同形式
+[tT]hat is my design: that is my design
+[tT]his is my design: this is my design
+
+// 匹配绰号的不同大小写形式
+[tT]he (T|t)ooth (F|f)airy: 牙仙
+[tT]he (M|m)innesota (S|s)hrike: 明尼苏达伯劳鸟
+[tT]he (A|a)ngel (M|m)aker: 天使制造者
+[tT]he (M|m)ushroom (K|k)iller: 蘑菇杀手
+
+// 匹配机构全称或常见简称
+((FBI|fbi) )?(F|f)orensic (L|l)ab(oratory)?: 法医实验室
+((FBI|fbi) )?(B|b)ehavioral (A|a)nalysis (U|u)nit: FBI行为分析科
+
+// 匹配地名“Wolf Trap”的不同大小写形式
+[Ww]olf[- ]?[Tt]rap: 狼陷
